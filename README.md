@@ -1,6 +1,5 @@
-[CloudSploit]: https://cloudsploit.com/img/logo-big-text-100.png
 
-CloudSploit Scans
+CloudSploit Scans for AWS
 =================
 
 ## Background
