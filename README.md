@@ -1,4 +1,4 @@
-![CloudSploit](https://cloudsploit.com/img/logo-big-text-100.png "CloudSploit")
+[CloudSploit]: https://cloudsploit.com/img/logo-big-text-100.png
 
 CloudSploit Scans
 =================
@@ -10,7 +10,7 @@ CloudSploit scans is an open-source project designed to allow detection of secur
 Ensure that NodeJS is installed. If not, install it from [here](https://nodejs.org/download/).
 
 ```
-git clone git@github.com:cloudsploit/scans.git
+git clone git@github.com:NexWeb/scans.git
 ```
 
 ```
